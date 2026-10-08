@@ -1,6 +1,7 @@
 [
   {
     "name": "As-Is FoW",
+    "type": "mod",
     "repo": "https://github.com/Egezenn/As-Is-FoW",
     "manifest": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/manifest.json",
     "notes": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/notes.md",

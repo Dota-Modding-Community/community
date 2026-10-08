@@ -1,0 +1,110 @@
+name: 🚀 Submit a Mod / Plugin / Theme
+description: Request to add your package to the Dota 2 Minify Community Registry
+title: "[Submission]: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your item to the Community registry!
+        Please ensure your repository follows the required structure.
+
+  - type: dropdown
+    id: entry_type
+    attributes:
+      label: Type
+      description: Select the package type.
+      options:
+        - mod
+        - plugin
+        - theme
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The display name of your mod / plugin / theme.
+      placeholder: "e.g. As-Is FoW"
+    validations:
+      required: true
+
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      description: Link to the GitHub repository.
+      placeholder: "https://github.com/YourUsername/your-repo"
+    validations:
+      required: true
+
+  - type: input
+    id: manifest_url
+    attributes:
+      label: Raw Manifest URL
+      description: Direct URL to the raw manifest.json file.
+      placeholder: "https://raw.githubusercontent.com/YourUsername/your-repo/main/src/manifest.json"
+    validations:
+      required: true
+
+  - type: input
+    id: notes_url
+    attributes:
+      label: Raw Notes URL
+      description: Direct URL to the raw notes.md file.
+      placeholder: "https://raw.githubusercontent.com/YourUsername/your-repo/main/src/notes.md"
+    validations:
+      required: true
+
+  - type: input
+    id: preview_url
+    attributes:
+      label: Raw Preview Image URL
+      description: Direct URL to the raw preview image (webp, png, jpg, gif).
+      placeholder: "https://raw.githubusercontent.com/YourUsername/your-repo/main/src/preview.webp"
+    validations:
+      required: true
+
+  - type: input
+    id: download_url
+    attributes:
+      label: Latest Release Asset Download URL
+      description: Direct URL to the latest .zip release asset.
+      placeholder: "https://github.com/YourUsername/your-repo/releases/latest/download/your-package.zip"
+    validations:
+      required: true
+
+  - type: input
+    id: minify_versions
+    attributes:
+      label: Minify Version(s) Tested
+      description: Which version(s) of Dota 2 Minify was this tested and working on?
+      placeholder: "e.g. 1.13.1,2rc5"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklists
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I have tested this in Dota 2 Minify and verified it works without errors.
+          required: true
+        - label: The repository uses the automated release workflow (bundles assets into a .zip).
+          required: true
+        - label: The preview image and notes render properly in the Minify UI.
+          required: true
+
+  - type: checkboxes
+    id: terms_and_removal
+    attributes:
+      label: Registry Policy & Removal Acknowledgment
+      description: By submitting, you acknowledge and agree to the registry maintenance and safety terms.
+      options:
+        - label: I understand that items may be delisted or removed from the registry at any time if they become abandoned, unmaintained, or broken after Dota 2 updates.
+          required: true
+        - label: I certify that this submission contains no malicious, harmful, deceptive, or policy-violating code/content.
+          required: true
+        - label: I understand that if this submission causes game crashes, security concerns, or unresolved breaking bugs, it may be pulled from the registry without prior notice.
+          required: true
