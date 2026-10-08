@@ -1,0 +1,43 @@
+name: ⚠️ Report a Broken or Outdated Mod
+description: Report a mod in the registry that is crashing, broken, or has dead links
+title: "[Broken Mod]: "
+labels: ["broken-mod"]
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Name / URL
+      description: Which mod in the registry is experiencing issues?
+      placeholder: "e.g. As-Is FoW or https://github.com/..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      options:
+        - "Dead / 404 Download Link"
+        - "Game Crash on Launch / In-game"
+        - "Visual / Audio Glitch"
+        - "Outdated after Dota 2 Game Update"
+        - "Security"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Problem Description
+      description: Describe what is broken and what error appears in Dota 2 Minify or in-game.
+      placeholder: "Provide steps to reproduce or warning log messages."
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Minify & Dota 2 Versions
+      description: What version of Dota 2 Minify and Dota 2 were you using?
+      placeholder: "e.g. Minify v2rc5, Dota 2 7.41e"

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mod Template & Guide
+    url: https://github.com/Dota-Modding-Community/mod-template
+    about: Learn how to create and package mods for Dota 2 Minify
+  - name: Dota 2 Minify Repository
+    url: https://github.com/egezenn/dota2-minify
+    about: Report issues or feature requests for Minify itself
