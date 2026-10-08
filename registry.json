@@ -1,11 +1,1 @@
-[
-  {
-    "name": "As-Is FoW",
-    "repo": "https://github.com/Egezenn/As-Is-FoW",
-    "manifest": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/manifest.json",
-    "notes": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/notes.md",
-    "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/preview.webp",
-    "latest-asset": "https://github.com/Egezenn/As-Is-FoW/releases/latest/download/As-Is-FoW.zip",
-    "versions": "1.14.0"
-  }
-]
+[]
