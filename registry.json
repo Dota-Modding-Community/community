@@ -8,5 +8,15 @@
     "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/preview.png",
     "latest-asset": "https://github.com/Egezenn/As-Is-FoW/releases/latest/download/As-Is-FoW.zip",
     "versions": "2rc5,2rc6"
+  },
+  {
+    "name": "Transparent Theme",
+    "type": "theme",
+    "repo": "https://github.com/Egezenn/minify-transparent-theme",
+    "manifest": "",
+    "notes": "",
+    "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/preview.png",
+    "latest-asset": "https://github.com/Egezenn/As-Is-FoW/releases/latest/download/minify-transparent-theme.zip",
+    "versions": "2rc5,2rc6"
   }
 ]
