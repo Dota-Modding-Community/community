@@ -7,7 +7,9 @@
     "notes": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/notes.md",
     "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/preview.png",
     "latest-asset": "https://github.com/Egezenn/As-Is-FoW/releases/latest/download/As-Is-FoW.zip",
-    "versions": "2rc5,2rc6"
+    "releases": {
+      "1.0.0": ["2rc5", "2rc6"]
+    }
   },
   {
     "name": "Transparent Theme",
@@ -17,7 +19,11 @@
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-transparent-theme/main/preview.png",
     "latest-asset": "https://github.com/Egezenn/minify-transparent-theme/releases/latest/download/minify-transparent-theme.zip",
-    "versions": "2rc5,2rc6"
+    "releases": {
+      "1.0.0": ["2rc5", "2rc6"],
+      "1.0.1": ["2rc5", "2rc6"],
+      "1.0.2": ["2rc6", "2rc7"]
+    }
   },
   {
     "name": "Wiki Browser",
@@ -27,6 +33,8 @@
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-wiki-browser/main/preview.png",
     "latest-asset": "https://github.com/Egezenn/minify-wiki-browser/releases/latest/download/minify-wiki-browser.zip",
-    "versions": "2rc5,2rc6"
+    "releases": {
+      "1.0.0": ["2rc5", "2rc6"]
+    }
   }
 ]
