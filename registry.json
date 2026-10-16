@@ -6,7 +6,7 @@
     "manifest": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/manifest.json",
     "notes": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/notes.md",
     "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/preview.png",
-    "latest-asset": "https://github.com/Egezenn/As-Is-FoW/releases/latest/download/As-Is-FoW.zip",
+    "asset-url": "https://github.com/Egezenn/As-Is-FoW/releases/download/{tag}/As-Is-FoW.zip",
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }
@@ -18,7 +18,7 @@
     "manifest": "",
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-transparent-theme/main/preview.png",
-    "latest-asset": "https://github.com/Egezenn/minify-transparent-theme/releases/latest/download/minify-transparent-theme.zip",
+    "asset-url": "https://github.com/Egezenn/minify-transparent-theme/releases/download/{tag}/minify-transparent-theme.zip",
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"],
       "1.0.1": ["2rc5", "2rc6", "2rc7"],
@@ -32,7 +32,7 @@
     "manifest": "https://raw.githubusercontent.com/Egezenn/minify-wiki-browser/main/src/manifest.json",
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-wiki-browser/main/preview.png",
-    "latest-asset": "https://github.com/Egezenn/minify-wiki-browser/releases/latest/download/minify-wiki-browser.zip",
+    "asset-url": "https://github.com/Egezenn/minify-wiki-browser/releases/download/{tag}/minify-wiki-browser.zip",
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }
@@ -44,7 +44,7 @@
     "manifest": "https://raw.githubusercontent.com/Egezenn/Simple-Dark-Terrain/main/src/manifest.json",
     "notes": "https://raw.githubusercontent.com/Egezenn/Simple-Dark-Terrain/main/src/notes.md",
     "preview": "https://raw.githubusercontent.com/Egezenn/Simple-Dark-Terrain/main/src/preview.png",
-    "latest-asset": "https://github.com/Egezenn/Simple-Dark-Terrain/releases/latest/download/Simple-Dark-Terrain.zip",
+    "asset-url": "https://github.com/Egezenn/Simple-Dark-Terrain/releases/download/{tag}/Simple-Dark-Terrain.zip",
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }

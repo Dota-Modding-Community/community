@@ -69,9 +69,9 @@ body:
   - type: input
     id: download_url
     attributes:
-      label: Latest Release Asset Download URL
-      description: Direct URL to the latest .zip release asset.
-      placeholder: "https://github.com/YourUsername/your-repo/releases/latest/download/your-package.zip"
+      label: Release Asset Download URL template
+      description: Direct URL template to the .zip release asset.
+      placeholder: "https://github.com/YourUsername/your-repo/releases/download/{tag}/your-package.zip"
     validations:
       required: true
 
