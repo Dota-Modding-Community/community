@@ -7,6 +7,9 @@
     "notes": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/notes.md",
     "preview": "https://raw.githubusercontent.com/Egezenn/As-Is-FoW/main/src/preview.png",
     "asset-url": "https://github.com/Egezenn/As-Is-FoW/releases/download/{tag}/As-Is-FoW.zip",
+    "sha512": {
+      "1.0.0": "1fb75b2a64b5a0c6d27e614bdbc4a385c49cac8b588b3951d1cb246627df8b08930c4c2885dd973d8046ec8480601954a3c9b962b606da5855ecac34964edea5"
+    },
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }
@@ -19,6 +22,11 @@
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-transparent-theme/main/preview.png",
     "asset-url": "https://github.com/Egezenn/minify-transparent-theme/releases/download/{tag}/minify-transparent-theme.zip",
+    "sha512": {
+      "1.0.0": "c0dcfcc5bf6aa6daea1265cca5d29e78159c4c74ff74d7420be2ead68ca1b5639ec68cdf10999548ed42141e7e2c1bd3132f05c693b896864a43aef49f8afa5d",
+      "1.0.1": "3296704bf26d0053a42db6ea07c20b3bade50d10952ddcbc446125a8af0f8e4f6cfaf44c217ca1a3852ba20aaed354bec752ad3c1ea21cb68843342fe39f8d81",
+      "1.0.2": "0a7f0258acd5f9750b163769d0068a5aeea596b688b033baf19ea0070ab20ea09ad3a32761a2991e550fc6aa5bd171cbe8688069a34c7f1007a4967aa7109f11"
+    },
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"],
       "1.0.1": ["2rc5", "2rc6", "2rc7"],
@@ -33,6 +41,9 @@
     "notes": "",
     "preview": "https://raw.githubusercontent.com/Egezenn/minify-wiki-browser/main/preview.png",
     "asset-url": "https://github.com/Egezenn/minify-wiki-browser/releases/download/{tag}/minify-wiki-browser.zip",
+    "sha512": {
+      "1.0.0": "a67adda67c38ca03b16f3011f11326ee63e578f8422031bb68e16668c4bde1410b5c16b50028100fdebb204d2a2c4177ab37be48c6879cb2376cd3017b4c3d8b"
+    },
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }
@@ -45,6 +56,9 @@
     "notes": "https://raw.githubusercontent.com/Egezenn/Simple-Dark-Terrain/main/src/notes.md",
     "preview": "https://raw.githubusercontent.com/Egezenn/Simple-Dark-Terrain/main/src/preview.png",
     "asset-url": "https://github.com/Egezenn/Simple-Dark-Terrain/releases/download/{tag}/Simple-Dark-Terrain.zip",
+    "sha512": {
+      "1.0.0": "72821ea52d68ac200eeed133c65b3b54436bedd80acb1cc66135505d8c6994c1c139c4fec698927d38e9de7a3171e0a6820d683768947e4796af26d5b3f9a815"
+    },
     "releases": {
       "1.0.0": ["2rc5", "2rc6", "2rc7"]
     }
