@@ -77,5 +77,20 @@
     "releases": {
       "1.0.0": ["2rc8"]
     }
+  },
+  {
+    "name": "Voiceover",
+    "type": "plugin",
+    "repo": "https://github.com/Egezenn/minify-voiceover",
+    "manifest": "https://raw.githubusercontent.com/Egezenn/minify-voiceover/main/plugin/manifest.json",
+    "notes": "",
+    "preview": "https://raw.githubusercontent.com/Egezenn/minify-voiceover/main/preview.png",
+    "asset-url": "https://github.com/Egezenn/minify-voiceover/releases/download/{tag}/minify-voiceover.zip",
+    "sha512": {
+      "1.0.0": "8f14f2a7c5f3b8b1b33af5f92b82b874ae3944e8a97d1008e8aa55c641af6d98787cd55b12fe9bc43a51fb4acc061f76ad87a91c83b9ec5300fdb39bfc9867c9"
+    },
+    "releases": {
+      "1.0.0": ["2rc8"]
+    }
   }
 ]
