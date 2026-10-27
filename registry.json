@@ -72,10 +72,12 @@
     "preview": "https://raw.githubusercontent.com/prostosaneyk/Minimize-Hero-Spells/main/src/preview.png",
     "asset-url": "https://github.com/prostosaneyk/Minimize-Hero-Spells/releases/download/{tag}/Minimize-Hero-Spells.zip",
     "sha512": {
-      "1.0.0": "b6c965c0e052b15206d55f491e1da016d7a9387d569b3eccd8a27985de137acb1ed18e8443fff4e2267a492075c8b2b89bebc3663530467ded9b60a1262f4fa1"
+      "1.0.0": "b6c965c0e052b15206d55f491e1da016d7a9387d569b3eccd8a27985de137acb1ed18e8443fff4e2267a492075c8b2b89bebc3663530467ded9b60a1262f4fa1",
+      "1.1.0": "14dd8e7d1bc15d32c6885ffb3694c0c463691646dad518e971d90a1fa3293783da537f6baaed19c5fb6276d323d281b535068585b3a23d61e4a7bef8c00993ee"
     },
     "releases": {
-      "1.0.0": ["2rc8", "2rc9"]
+      "1.0.0": ["2rc8"],
+      "1.1.0": ["2rc8", "2rc9"]
     }
   },
   {
