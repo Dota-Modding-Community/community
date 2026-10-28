@@ -60,7 +60,7 @@
       "1.0.0": "72821ea52d68ac200eeed133c65b3b54436bedd80acb1cc66135505d8c6994c1c139c4fec698927d38e9de7a3171e0a6820d683768947e4796af26d5b3f9a815"
     },
     "releases": {
-      "1.0.0": ["2rc5", "2rc6", "2rc7", "2rc8"]
+      "1.0.0": ["2rc5", "2rc6", "2rc7", "2rc8", "2rc9"]
     }
   },
   {
@@ -90,6 +90,36 @@
     "asset-url": "https://github.com/Egezenn/minify-voiceover/releases/download/{tag}/minify-voiceover.zip",
     "sha512": {
       "1.0.0": "8f14f2a7c5f3b8b1b33af5f92b82b874ae3944e8a97d1008e8aa55c641af6d98787cd55b12fe9bc43a51fb4acc061f76ad87a91c83b9ec5300fdb39bfc9867c9"
+    },
+    "releases": {
+      "1.0.0": ["2rc8", "2rc9"]
+    }
+  },
+  {
+    "name": "M3E Theme Light",
+    "type": "theme",
+    "repo": "https://github.com/h6rd/m3e-minify-theme",
+    "manifest": "",
+    "notes": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/notes.md",
+    "preview": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/.github/ss/main-purple-light.png",
+    "asset-url": "https://github.com/h6rd/m3e-minify-theme/releases/download/{tag}/m3e-minify-theme-light.zip",
+    "sha512": {
+      "1.0.0": "d2aaf3de6ab7b9be49b320f60ce758015af64fc93d5917a4ccdb5ae05c0e3dc5fa619c86e3c5995416f911bf2b68c354f5d1c822f62067fdbd197f84074543fb"
+    },
+    "releases": {
+      "1.0.0": ["2rc8", "2rc9"]
+    }
+  },
+  {
+    "name": "M3E Theme Dark",
+    "type": "theme",
+    "repo": "https://github.com/h6rd/m3e-minify-theme",
+    "manifest": "",
+    "notes": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/notes.md",
+    "preview": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/.github/ss/main-purple.png",
+    "asset-url": "https://github.com/h6rd/m3e-minify-theme/releases/download/{tag}/m3e-minify-theme-dark.zip",
+    "sha512": {
+      "1.0.0": "91c7596cb4faf43af5129068a68c4a79f0cfc87b597ac2af9e897ee4be7faeba3a69d55170464fdb108d1c37ea76e29f6fdde49e6037e43b9d1e6a184b76f2a5"
     },
     "releases": {
       "1.0.0": ["2rc8", "2rc9"]
