@@ -104,7 +104,7 @@
     "preview": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/.github/ss/main-purple-light.png",
     "asset-url": "https://github.com/h6rd/m3e-minify-theme/releases/download/{tag}/m3e-minify-theme-light.zip",
     "sha512": {
-      "1.0.0": "d2aaf3de6ab7b9be49b320f60ce758015af64fc93d5917a4ccdb5ae05c0e3dc5fa619c86e3c5995416f911bf2b68c354f5d1c822f62067fdbd197f84074543fb"
+      "1.0.0": "91c7596cb4faf43af5129068a68c4a79f0cfc87b597ac2af9e897ee4be7faeba3a69d55170464fdb108d1c37ea76e29f6fdde49e6037e43b9d1e6a184b76f2a5"
     },
     "releases": {
       "1.0.0": ["2rc8", "2rc9"]
@@ -119,7 +119,7 @@
     "preview": "https://raw.githubusercontent.com/h6rd/m3e-minify-theme/main/.github/ss/main-purple.png",
     "asset-url": "https://github.com/h6rd/m3e-minify-theme/releases/download/{tag}/m3e-minify-theme-dark.zip",
     "sha512": {
-      "1.0.0": "91c7596cb4faf43af5129068a68c4a79f0cfc87b597ac2af9e897ee4be7faeba3a69d55170464fdb108d1c37ea76e29f6fdde49e6037e43b9d1e6a184b76f2a5"
+      "1.0.0": "d2aaf3de6ab7b9be49b320f60ce758015af64fc93d5917a4ccdb5ae05c0e3dc5fa619c86e3c5995416f911bf2b68c354f5d1c822f62067fdbd197f84074543fb"
     },
     "releases": {
       "1.0.0": ["2rc8", "2rc9"]
