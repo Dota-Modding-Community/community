@@ -128,5 +128,20 @@
       "1.0.0": ["2rc8", "2rc9"],
       "1.1.0": ["2rc8", "2rc9", "2", "2.0.1"]
     }
+  },
+  {
+    "name": "Blinker Theme Dark",
+    "type": "theme",
+    "repo": "https://github.com/h6rd/blinker-minify-theme",
+    "manifest": "",
+    "notes": "https://raw.githubusercontent.com/h6rd/blinker-minify-theme/main/notes.md",
+    "preview": "https://raw.githubusercontent.com/h6rd/blinker-minify-theme/main/.github/ss/main-greenscreen.png",
+    "asset-url": "https://github.com/h6rd/blinker-minify-theme/releases/download/{tag}/blinker-minify-theme-dark.zip",
+    "sha512": {
+      "1.0.0": "83f9e8d72d38df58cd467ba3dce0528b26e985ca4c166f0d2f48aaee4d6fc9992c0e53fa25c67ad1b8c6c95dfb6c8cc33a4c40b90d5a0778733f04454dea9b1b"
+    },
+    "releases": {
+      "1.0.0": ["2rc8", "2rc9", "2", "2.0.1"]
+    }
   }
 ]
